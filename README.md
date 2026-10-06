@@ -1,0 +1,2 @@
+# power_predict_XGBoost
+用XGBoost做光伏预测，用cvxpy写储能调度优化
